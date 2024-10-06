@@ -2,13 +2,13 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Microsoft.DotNet.ILCompiler/8.0.2": {
+      "Microsoft.DotNet.ILCompiler/8.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.DotNet.ILCompiler.props": {}
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.2": {
+      "Microsoft.NET.ILLink.Tasks/8.0.8": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -24,10 +24,10 @@
     }
   },
   "libraries": {
-    "Microsoft.DotNet.ILCompiler/8.0.2": {
-      "sha512": "rGE3+673xn1iZJCoMIuUb9lhqje4DiCB+qTyPAJ97Bw15c4N69ZbMAO/GJyxchaoLJCHIPXP52hwxEzqrllwCg==",
+    "Microsoft.DotNet.ILCompiler/8.0.8": {
+      "sha512": "OWFDT/S4Zl5QVakCjVfRaZTLrmWDhA20ud/BKkru7vWnIrejMcUk4Xz2MwavgyzBypryoHYta787k4avhxsU9A==",
       "type": "package",
-      "path": "microsoft.dotnet.ilcompiler/8.0.2",
+      "path": "microsoft.dotnet.ilcompiler/8.0.8",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -46,7 +46,7 @@
         "build/NativeAOT.natvis",
         "build/WindowsAPIs.txt",
         "build/findvcvarsall.bat",
-        "microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+        "microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",
         "microsoft.dotnet.ilcompiler.nuspec",
         "runtime.json",
         "tools/netstandard/ILCompiler.Build.Tasks.deps.json",
@@ -54,10 +54,10 @@
         "tools/netstandard/ILCompiler.Build.Tasks.pdb"
       ]
     },
-    "Microsoft.NET.ILLink.Tasks/8.0.2": {
-      "sha512": "hKTrehpfVzOhAz0mreaTAZgbz0DrMEbWq4n3hAo8Ks6WdxdqQhNPvzOqn9VygKuWf1bmxPdraqzTaXriO/sn0A==",
+    "Microsoft.NET.ILLink.Tasks/8.0.8": {
+      "sha512": "P8wR6MUWwYXIjPJuBaZgo5zlI/GWI6QEAo6NyVIbPefa9CCkohYu7dP2rD/mrqnjEqfRHyl+h9VZrDoGpELqYg==",
       "type": "package",
-      "path": "microsoft.net.illink.tasks/8.0.2",
+      "path": "microsoft.net.illink.tasks/8.0.8",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -71,7 +71,7 @@
         "build/Microsoft.NET.ILLink.Analyzers.props",
         "build/Microsoft.NET.ILLink.Tasks.props",
         "build/Microsoft.NET.ILLink.targets",
-        "microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+        "microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
         "microsoft.net.illink.tasks.nuspec",
         "tools/net472/ILLink.Tasks.dll",
         "tools/net472/ILLink.Tasks.dll.config",
@@ -189,29 +189,29 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.DotNet.ILCompiler >= 8.0.2",
-      "Microsoft.NET.ILLink.Tasks >= 8.0.2",
+      "Microsoft.DotNet.ILCompiler >= 8.0.8",
+      "Microsoft.NET.ILLink.Tasks >= 8.0.8",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.19.6"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Furina\\.nuget\\packages\\": {},
-    "D:\\Programs\\Visual Studio 2022 Instruments\\NuGetPackages": {}
+    "C:\\Users\\Kirol\\.nuget\\packages\\": {},
+    "D:\\Programs\\VS 2022 SDK\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codes\\uni\\VolgaIT\\VolgaIT.csproj",
+      "projectUniqueName": "D:\\Codes\\VolgaIT2024\\VolgaIT.csproj",
       "projectName": "VolgaIT",
-      "projectPath": "D:\\Codes\\uni\\VolgaIT\\VolgaIT.csproj",
-      "packagesPath": "C:\\Users\\Furina\\.nuget\\packages\\",
-      "outputPath": "D:\\Codes\\uni\\VolgaIT\\obj\\",
+      "projectPath": "D:\\Codes\\VolgaIT2024\\VolgaIT.csproj",
+      "packagesPath": "C:\\Users\\Kirol\\.nuget\\packages\\",
+      "outputPath": "D:\\Codes\\VolgaIT2024\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Programs\\Visual Studio 2022 Instruments\\NuGetPackages"
+        "D:\\Programs\\VS 2022 SDK\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Furina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kirol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -220,6 +220,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -246,13 +247,13 @@
           "Microsoft.DotNet.ILCompiler": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.0.2, )",
+            "version": "[8.0.8, )",
             "autoReferenced": true
           },
           "Microsoft.NET.ILLink.Tasks": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.0.2, )",
+            "version": "[8.0.8, )",
             "autoReferenced": true
           },
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
@@ -274,7 +275,7 @@
         "downloadDependencies": [
           {
             "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
-            "version": "[8.0.2, 8.0.2]"
+            "version": "[8.0.8, 8.0.8]"
           }
         ],
         "frameworkReferences": {
@@ -285,7 +286,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

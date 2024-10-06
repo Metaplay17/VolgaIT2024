@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UyJ4zJww63ZdhG8oq2bcnQeYGjKvfc3SKLHF0lbkCoBbJtF5wA7tE8FIyvnRWBoxpg3R1Jm3sSiITeRxdKxmfA==",
+  "dgSpecHash": "jN93SqN7F4E=",
   "success": true,
-  "projectFilePath": "D:\\Codes\\uni\\VolgaIT\\VolgaIT.csproj",
+  "projectFilePath": "D:\\Codes\\VolgaIT2024\\VolgaIT.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Furina\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
-    "C:\\Users\\Furina\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
-    "C:\\Users\\Furina\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
-    "C:\\Users\\Furina\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+    "C:\\Users\\Kirol\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.8\\microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",
+    "C:\\Users\\Kirol\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\Kirol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
+    "C:\\Users\\Kirol\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.8\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512"
   ],
   "logs": []
 }

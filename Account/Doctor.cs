@@ -1,9 +1,9 @@
 ﻿namespace VolgaIT.Account
 {
-    public class Doctor
+    public class Doctor : User
     {
         private int id;
-        public Doctor()
+        public Doctor(string firstName, string lastName, string username, string password) : base(firstName, lastName, username, password)
         {
             id = Toolbox.GenerateDoctorId();
         }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codes\\uni\\VolgaIT\\VolgaIT.csproj": {}
+    "D:\\Codes\\VolgaIT2024\\VolgaIT.csproj": {}
   },
   "projects": {
-    "D:\\Codes\\uni\\VolgaIT\\VolgaIT.csproj": {
+    "D:\\Codes\\VolgaIT2024\\VolgaIT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codes\\uni\\VolgaIT\\VolgaIT.csproj",
+        "projectUniqueName": "D:\\Codes\\VolgaIT2024\\VolgaIT.csproj",
         "projectName": "VolgaIT",
-        "projectPath": "D:\\Codes\\uni\\VolgaIT\\VolgaIT.csproj",
-        "packagesPath": "C:\\Users\\Furina\\.nuget\\packages\\",
-        "outputPath": "D:\\Codes\\uni\\VolgaIT\\obj\\",
+        "projectPath": "D:\\Codes\\VolgaIT2024\\VolgaIT.csproj",
+        "packagesPath": "C:\\Users\\Kirol\\.nuget\\packages\\",
+        "outputPath": "D:\\Codes\\VolgaIT2024\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Programs\\Visual Studio 2022 Instruments\\NuGetPackages"
+          "D:\\Programs\\VS 2022 SDK\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Furina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kirol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,13 +53,13 @@
             "Microsoft.DotNet.ILCompiler": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.2, )",
+              "version": "[8.0.8, )",
               "autoReferenced": true
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.2, )",
+              "version": "[8.0.8, )",
               "autoReferenced": true
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
@@ -80,7 +81,7 @@
           "downloadDependencies": [
             {
               "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
-              "version": "[8.0.2, 8.0.2]"
+              "version": "[8.0.8, 8.0.8]"
             }
           ],
           "frameworkReferences": {
@@ -91,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

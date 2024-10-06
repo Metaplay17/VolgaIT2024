@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Codes\\uni\\VolgaIT\\",
+  "WorkspaceRootPath": "D:\\Codes\\VolgaIT2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|d:\\codes\\uni\\volgait\\timetablems\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|solutionrelative:timetablems\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|d:\\codes\\volgait2024\\timetable\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|solutionrelative:timetable\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|d:\\codes\\uni\\volgait\\timetablems\\timetablems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|solutionrelative:timetablems\\timetablems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|d:\\codes\\volgait2024\\timetable\\timetablems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|solutionrelative:timetable\\timetablems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|D:\\Codes\\uni\\VolgaIT\\toolbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|d:\\codes\\volgait2024\\account\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|solutionrelative:account\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|d:\\codes\\volgait2024\\account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|solutionrelative:account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|d:\\codes\\volgait2024\\toolbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|solutionrelative:toolbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|d:\\codes\\volgait2024\\account\\accountms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|solutionrelative:account\\accountms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|d:\\codes\\volgait2024\\timetable\\hospitaltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|solutionrelative:timetable\\hospitaltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|d:\\codes\\volgait2024\\hospital\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|solutionrelative:hospital\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|d:\\codes\\volgait2024\\hospital\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA986AA4-B67D-4A1A-9D2E-ECF81656A1B7}|VolgaIT.csproj|solutionrelative:hospital\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +46,126 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Codes\\VolgaIT2024\\Account\\Doctor.cs",
+              "RelativeDocumentMoniker": "Account\\Doctor.cs",
+              "ToolTip": "D:\\Codes\\VolgaIT2024\\Account\\Doctor.cs",
+              "RelativeToolTip": "Account\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:00:51.586Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Task.cs",
-              "DocumentMoniker": "D:\\Codes\\uni\\VolgaIT\\TimetableMS\\Task.cs",
-              "RelativeDocumentMoniker": "TimetableMS\\Task.cs",
-              "ToolTip": "D:\\Codes\\uni\\VolgaIT\\TimetableMS\\Task.cs",
-              "RelativeToolTip": "TimetableMS\\Task.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Codes\\VolgaIT2024\\Account\\User.cs",
+              "RelativeDocumentMoniker": "Account\\User.cs",
+              "ToolTip": "D:\\Codes\\VolgaIT2024\\Account\\User.cs",
+              "RelativeToolTip": "Account\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T11:04:28.597Z",
+              "WhenOpened": "2024-10-06T08:01:09.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountMS.cs",
+              "DocumentMoniker": "D:\\Codes\\VolgaIT2024\\Account\\AccountMS.cs",
+              "RelativeDocumentMoniker": "Account\\AccountMS.cs",
+              "ToolTip": "D:\\Codes\\VolgaIT2024\\Account\\AccountMS.cs",
+              "RelativeToolTip": "Account\\AccountMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:00:33.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "D:\\Codes\\VolgaIT2024\\Timetable\\TaskManager.cs",
+              "RelativeDocumentMoniker": "Timetable\\TaskManager.cs",
+              "ToolTip": "D:\\Codes\\VolgaIT2024\\Timetable\\TaskManager.cs",
+              "RelativeToolTip": "Timetable\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:56:03.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\Codes\\VolgaIT2024\\Hospital\\Ticket.cs",
+              "RelativeDocumentMoniker": "Hospital\\Ticket.cs",
+              "ToolTip": "D:\\Codes\\VolgaIT2024\\Hospital\\Ticket.cs",
+              "RelativeToolTip": "Hospital\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:16:16.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "D:\\Codes\\VolgaIT2024\\Hospital\\Hospital.cs",
+              "RelativeDocumentMoniker": "Hospital\\Hospital.cs",
+              "ToolTip": "D:\\Codes\\VolgaIT2024\\Hospital\\Hospital.cs",
+              "RelativeToolTip": "Hospital\\Hospital.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:57:24.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HospitalTask.cs",
+              "DocumentMoniker": "D:\\Codes\\VolgaIT2024\\Timetable\\HospitalTask.cs",
+              "RelativeDocumentMoniker": "Timetable\\HospitalTask.cs",
+              "ToolTip": "D:\\Codes\\VolgaIT2024\\Timetable\\HospitalTask.cs",
+              "RelativeToolTip": "Timetable\\HospitalTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:54:01.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Toolbox.cs",
+              "DocumentMoniker": "D:\\Codes\\VolgaIT2024\\Toolbox.cs",
+              "RelativeDocumentMoniker": "Toolbox.cs",
+              "ToolTip": "D:\\Codes\\VolgaIT2024\\Toolbox.cs",
+              "RelativeToolTip": "Toolbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:00:20.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TimetableMS.cs",
-              "DocumentMoniker": "D:\\Codes\\uni\\VolgaIT\\TimetableMS\\TimetableMS.cs",
-              "RelativeDocumentMoniker": "TimetableMS\\TimetableMS.cs",
-              "ToolTip": "D:\\Codes\\uni\\VolgaIT\\TimetableMS\\TimetableMS.cs",
-              "RelativeToolTip": "TimetableMS\\TimetableMS.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "DocumentMoniker": "D:\\Codes\\VolgaIT2024\\Timetable\\TimetableMS.cs",
+              "RelativeDocumentMoniker": "Timetable\\TimetableMS.cs",
+              "ToolTip": "D:\\Codes\\VolgaIT2024\\Timetable\\TimetableMS.cs",
+              "RelativeToolTip": "Timetable\\TimetableMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T11:03:47.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Toolbox.cs",
-              "DocumentMoniker": "D:\\Codes\\uni\\VolgaIT\\Toolbox.cs",
-              "RelativeDocumentMoniker": "Toolbox.cs",
-              "ToolTip": "D:\\Codes\\uni\\VolgaIT\\Toolbox.cs",
-              "RelativeToolTip": "Toolbox.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:00:20.7Z",
               "EditorCaption": ""
             }
           ]

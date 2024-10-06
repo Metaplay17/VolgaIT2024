@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VolgaIT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34a530835608906036c47819380a3f40c02baba4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c149f5f38e6977ee9ee7d8181849255610de3d66")]
 [assembly: System.Reflection.AssemblyProductAttribute("VolgaIT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VolgaIT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

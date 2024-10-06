@@ -7,6 +7,7 @@
             User,
             Admin
         }
+        private int id;
         private string firstName;
         private string lastName;
         private string username;
@@ -15,6 +16,7 @@
 
         public User(string firstName, string lastName, string username, string password, Roles role)
         {
+            id = Toolbox.GenerateUserId();
             this.firstName = firstName;
             this.lastName = lastName;
             this.username = username;
